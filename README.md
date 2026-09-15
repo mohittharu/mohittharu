@@ -4,7 +4,7 @@
 
 ### 🤖 AI/ML Enthusiast | 🧠 Deep Learning
 
-Building practical applications with **MERN, Python, Machine Learning, Deep Learning & Computer Vision.**
+Building practical applications with **Python, Machine Learning, Deep Learning & Computer Vision.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohittharu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohittharu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Tharu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-tharu-343940328/)
