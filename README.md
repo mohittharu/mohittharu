@@ -116,33 +116,11 @@ A structured learning journey covering Machine Learning concepts, algorithms, ex
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohittharu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohittharu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=mohittharu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Mohit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohittharu&theme=tokyo-night&hide_border=true)](https://github.com/mohittharu)
 
 </div>
 
