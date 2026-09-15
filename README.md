@@ -82,40 +82,6 @@ Building practical applications with **MERN, Python, Machine Learning, Deep Lear
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Movie Recommender System
-
-A machine-learning based recommendation system that recommends movies based on user preferences and movie characteristics.
-
-🔗 [View Repository](https://github.com/mohittharu/Movie_Recommender_System)
-
----
-
-### 🩸 Sickle Cell Prediction
-
-A Machine Learning project focused on predictive modeling and data analysis.
-
-🔗 [View Repository](https://github.com/mohittharu/Sickle_Cell_Prediction)
-
----
-
-### 📊 EDA Projects
-
-A collection of exploratory data analysis projects focused on extracting insights, visualizing datasets and understanding data patterns.
-
-🔗 [View Repository](https://github.com/mohittharu/EDA-Projects)
-
----
-
-### 🧠 60 Days of Machine Learning
-
-A structured learning journey covering Machine Learning concepts, algorithms, experiments and implementations.
-
-🔗 [View Repository](https://github.com/mohittharu/60_DaysOf_ML)
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
