@@ -138,16 +138,6 @@ A structured learning journey covering Machine Learning concepts, algorithms, ex
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohittharu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
